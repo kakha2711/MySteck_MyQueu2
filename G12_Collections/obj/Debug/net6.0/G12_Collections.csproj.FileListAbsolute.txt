@@ -1,0 +1,15 @@
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\bin\Debug\net6.0\G12_Collections.exe
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\bin\Debug\net6.0\G12_Collections.deps.json
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\bin\Debug\net6.0\G12_Collections.runtimeconfig.json
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\bin\Debug\net6.0\G12_Collections.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\bin\Debug\net6.0\G12_Collections.pdb
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.csproj.AssemblyReference.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.AssemblyInfoInputs.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.AssemblyInfo.cs
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\refint\G12_Collections.dll
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.pdb
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\G12_Collections.genruntimeconfig.cache
+C:\Users\Kakha\Desktop\Gitze_Asatvirti\MySteck_MyQueu2\G12_Collections\obj\Debug\net6.0\ref\G12_Collections.dll
